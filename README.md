@@ -1,6 +1,6 @@
 # obd2_prom_client
 
-To run from docker cloud 
+To run from docker cloud  
 docker run -d panckakes/prom-client:latest  
 
 To run this container in background  
